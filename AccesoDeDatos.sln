@@ -5,7 +5,7 @@ VisualStudioVersion = 17.9.34902.65
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccesoDeDatos", "AccesoDeDatos.csproj", "{404DC408-2FB7-4740-86F4-7AB9BC548E9A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MakesADONET", "..\TarADONet\MakesADONET\MakesADONET.csproj", "{AFD7E47D-4BE8-4618-854E-FAF42159E505}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakeADONET", "..\MakeADONET\MakeADONET.csproj", "{8D4CD28E-18A7-4854-9D16-E6155899BEC0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{404DC408-2FB7-4740-86F4-7AB9BC548E9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{404DC408-2FB7-4740-86F4-7AB9BC548E9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{404DC408-2FB7-4740-86F4-7AB9BC548E9A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AFD7E47D-4BE8-4618-854E-FAF42159E505}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AFD7E47D-4BE8-4618-854E-FAF42159E505}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AFD7E47D-4BE8-4618-854E-FAF42159E505}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AFD7E47D-4BE8-4618-854E-FAF42159E505}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D4CD28E-18A7-4854-9D16-E6155899BEC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D4CD28E-18A7-4854-9D16-E6155899BEC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D4CD28E-18A7-4854-9D16-E6155899BEC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D4CD28E-18A7-4854-9D16-E6155899BEC0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
